@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ArrayOfMonth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Month>
+    <MonthNumber>1</MonthNumber>
+    <Deposit>0</Deposit>
+    <Deposits />
+  </Month>
+  <Month>
+    <MonthNumber>2</MonthNumber>
+    <Deposit>0</Deposit>
+    <Deposits>
+      <int>200</int>
+    </Deposits>
+  </Month>
+  <Month>
+    <MonthNumber>3</MonthNumber>
+    <Deposit>0</Deposit>
+    <Deposits>
+      <int>64</int>
+      <int>1176</int>
+      <int>54</int>
+      <int>809</int>
+      <int>444</int>
+    </Deposits>
+  </Month>
+</ArrayOfMonth>

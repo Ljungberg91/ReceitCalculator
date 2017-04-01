@@ -1,0 +1,6 @@
+C:\Users\Jesper\Desktop\Egna Projekt\FoodCalculator1.0\FoodCalculator1.0\bin\Release\FoodCalculator1.0.exe.config
+C:\Users\Jesper\Desktop\Egna Projekt\FoodCalculator1.0\FoodCalculator1.0\bin\Release\FoodCalculator1.0.exe
+C:\Users\Jesper\Desktop\Egna Projekt\FoodCalculator1.0\FoodCalculator1.0\bin\Release\FoodCalculator1.0.pdb
+C:\Users\Jesper\Desktop\Egna Projekt\FoodCalculator1.0\FoodCalculator1.0\obj\Release\FoodCalculator1.0.csprojResolveAssemblyReference.cache
+C:\Users\Jesper\Desktop\Egna Projekt\FoodCalculator1.0\FoodCalculator1.0\obj\Release\FoodCalculator1.0.exe
+C:\Users\Jesper\Desktop\Egna Projekt\FoodCalculator1.0\FoodCalculator1.0\obj\Release\FoodCalculator1.0.pdb
